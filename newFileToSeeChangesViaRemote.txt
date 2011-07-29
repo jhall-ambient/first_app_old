@@ -1,0 +1,1 @@
+Want to check from a 2nd working dir to see what has changed/added to the remote
